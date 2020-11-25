@@ -1,0 +1,39 @@
+*{
+    font-family: 'Lato', sans-serif;
+
+}
+div{
+   float: left;
+   margin: 100px;
+   margin-top: 300px;
+   padding: 10px;
+   text-align: center;
+   
+}
+img{
+    width: 150px;
+    height: 150px;
+}
+.container1{
+    border: 1px solid black;
+    height: 400px;
+    width: 400px;
+    background-image: linear-gradient(#a1c4fd , #c2e9fb);
+}
+
+.container2{
+    border: 1px solid black;
+    height: 400px;
+    width: 400px;
+    background-image: linear-gradient(#ff9a9e , #fecfef);
+
+}
+
+.container3{
+    border: 1px solid black;
+    height: 400px;
+    width: 400px;
+    background-image: linear-gradient(#89f7fe , #66a6ff);
+
+}
+
